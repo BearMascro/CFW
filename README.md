@@ -6,7 +6,9 @@ WARNING: Installing custom firmware and removing the sd card
 while done may lead your console to turn unbootable. Please note
 that this may damage your system while in the process of downloading the
 CFW.
+--------------------------
 
+# Q&A
 
 Q1: What does Custom Firmware Do?
 
@@ -42,8 +44,10 @@ still supports versions like 9.2.0 or 11.13.0 Which is
 pretty good for the CFW because if you have 9.2.0 and later,
 CFW will work but if you have 8.0.0 and up, CFW wont work
 for you.
+---------------------------
 
-Links:
+
+# Links:
 
 BruteForceMovable: https://bruteforcemovable.com/
 (movable.sed)
