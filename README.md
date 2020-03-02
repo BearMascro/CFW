@@ -5,7 +5,7 @@ This repository/project contains files to install custom firmware onto your Nint
 WARNING: Installing custom firmware and removing the sd card
 while done may lead your console to turn unbootable. Please note
 that this may damage your system while in the process of downloading the
-CFW.
+CFW. I would also make sure that this CFW is only for use of 11.13 Only!
 --------------------------
 
 # Q&A
